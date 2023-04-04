@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "django": "^1.0.0",
+    "express": "^4.18.2",
+    "mongodb": "^4.6.0",
+    "mysql": "^2.18.1"
+  }
+}
